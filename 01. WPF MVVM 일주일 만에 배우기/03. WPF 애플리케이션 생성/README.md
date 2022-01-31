@@ -123,7 +123,7 @@
 ```
 
 #### Source 속성
-* [-페이지 이름 앞에 "/"를 잊지 않도록 한다-]
+* **페이지 이름 앞에 "/"를 잊지 않도록 한다**
 ```html
 <Fram Source="/Welcom.xaml">
 </Fram>
@@ -202,6 +202,7 @@ private void Greet(object sender, RoutedEventArgs e)
 * 컨트롤의 최종 너비를 계산  
 
 <img src="https://user-images.githubusercontent.com/92307342/143582541-9f99f473-45ba-4798-a4ba-b07c20936907.png" width="50%" height="50%">
+
 * 컨트롤의 자식, 부모에의해 제약된 ㅣ크기를 조회하고 마지막에 컨트롤 자체의 Width, MinWidth 또는 MaxWidth 속성을 확인
 * **부모 제한 크기**는 자식 필수 크기보다 우선, Width 속성은 부모나 자식의 값보다 우선
 ```html
@@ -209,8 +210,10 @@ private void Greet(object sender, RoutedEventArgs e)
   <Button Content="Hello world" Margin="5" />
 </Canvas>
 ```
-* Canvas 컨트롤은 자식 컨트롤 크기를 제한하지 않고 Button 컨트롤에 Width 속성이 없으므로 Button 컨트롤에 'Hello World' 텍스트 전체를 표시하는 데 필요한 크기가 할당   
+* Canvas 컨트롤은 자식 컨트롤 크기를 제한하지 않고 Button 컨트롤에 Width 속성이 없으므로 Button 컨트롤에 'Hello World' 텍스트 전체를 표시하는 데 필요한 크기가 할당  
+
 <img src="https://user-images.githubusercontent.com/92307342/143583801-859133fb-9c23-41fe-8eec-33ed7297f190.png" width="20%" height="20%">
+
 * 패널 컨트롤
 
 | 컨트롤      | 크기 강제 | 사용 평의 |
