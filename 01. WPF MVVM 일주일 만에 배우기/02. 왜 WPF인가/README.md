@@ -41,4 +41,4 @@
 * XML기반  
 <img src="https://user-images.githubusercontent.com/92307342/142409403-a221f2ec-7ce0-4c7e-8173-8793af11a2b0.png" width="50%">
 
-#### 다음 [??](https://github.com/YearinKim/CSharp/tree/wpf_mvvm/01.%20WPF%20MVVM%20%EC%9D%BC%EC%A3%BC%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%B0%B0%EC%9A%B0%EA%B8%B0/03.%20WPF%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%83%9D%EC%84%B1)
+#### 다음 [03. WPF 애플리케이션 생성](https://github.com/YearinKim/CSharp/tree/wpf_mvvm/01.%20WPF%20MVVM%20%EC%9D%BC%EC%A3%BC%EC%9D%BC%20%EB%A7%8C%EC%97%90%20%EB%B0%B0%EC%9A%B0%EA%B8%B0/03.%20WPF%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%83%9D%EC%84%B1)
