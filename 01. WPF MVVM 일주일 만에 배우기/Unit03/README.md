@@ -226,3 +226,42 @@ private void Greet(object sender, RoutedEventArgs e)
 | WrapPanel   | Yes       | XAML      |
 
 <img src="https://user-images.githubusercontent.com/92307342/143586462-6c22d0e6-7185-432f-a748-f64a9cc3d83e.png" width="70%" height="70%">
+
+<br/><br/>
+
+## 목록 컨트롤
+
+* 쉽게 변경 가능
+* 외형이 아닌 필요한 동작에 초점을 맞춰 컨트롤을 선택
+
+#### 선택 컨트롤
+
+* **ListBox**
+  * 하나 또는 그 이사으이 항목을 선택 가능
+  * 한 번에 여러 항목을 표시 가능
+
+```html
+<ListBox Height="100">
+    <Label>Element 1</Label>
+    <Label>Element 2</Label>
+    <GroupBox Header="Element 3">
+        With some content it's funnier
+    </GroupBox>
+</ListBox>
+```
+
+* **ComboBox**
+  * 하나의 항목 선택
+  * 두 가지 표시 모드
+
+```html
+<ListBox Height="100">
+    <Label>Element 1</Label>
+    <Label>Element 2</Label>
+    <GroupBox Header="Element 3">
+        With some content it's funnier
+    </GroupBox>
+</ListBox>
+```
+
+![image](https://user-images.githubusercontent.com/97888638/153860505-0c206ee2-997c-45bb-902c-355b02e04ba2.png)

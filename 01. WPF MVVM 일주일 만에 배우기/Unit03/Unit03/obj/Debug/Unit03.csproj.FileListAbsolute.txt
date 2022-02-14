@@ -1,0 +1,16 @@
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.csproj.AssemblyReference.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\MainWindow.g.cs
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\App.g.cs
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03_MarkupCompile.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03_MarkupCompile.lref
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\bin\Debug\Unit03.exe.config
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\bin\Debug\Unit03.exe
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\bin\Debug\Unit03.pdb
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03_Content.g.cs
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\MainWindow.baml
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.g.resources
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.Properties.Resources.resources
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.csproj.GenerateResource.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.csproj.CoreCompileInputs.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.exe
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit03\Unit03\obj\Debug\Unit03.pdb
