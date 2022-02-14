@@ -1,4 +1,3 @@
-# 03장. WPF 애플리케이션 
 ## 개발자-디자이너 워크플로우
 
 <img src="https://user-images.githubusercontent.com/92307342/142411771-d32f6838-fbe8-4400-a7d9-b7cffcb8f86c.png" width="50%">
@@ -256,13 +255,13 @@ private void Greet(object sender, RoutedEventArgs e)
   * 두 가지 표시 모드
 
 ```html
-<ListBox Height="100">
+<ComboBox>
     <Label>Element 1</Label>
     <Label>Element 2</Label>
     <GroupBox Header="Element 3">
         With some content it's funnier
     </GroupBox>
-</ListBox>
+</ComboBox>
 ```
 
 ![image](https://user-images.githubusercontent.com/97888638/153860505-0c206ee2-997c-45bb-902c-355b02e04ba2.png)
