@@ -1,0 +1,17 @@
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\bin\Debug\BikeShop.exe.config
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\bin\Debug\BikeShop.exe
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\bin\Debug\BikeShop.pdb
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.AssemblyReference.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\Contact.g.cs
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\MainWindow.g.cs
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\App.g.cs
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop_MarkupCompile.lref
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\MainWindow.baml
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\Contact.baml
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.g.resources
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.Properties.Resources.resources
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.GenerateResource.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.csproj.CoreCompileInputs.cache
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.exe
+F:\CSharp\01. WPF MVVM 일주일 만에 배우기\Unit_Exercises\BikeShop\BikeShop\obj\Debug\BikeShop.pdb
